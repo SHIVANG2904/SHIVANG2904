@@ -20,9 +20,7 @@ I am actively seeking opportunities to work on real-world projects through inter
 
 ### Fun Facts:  
 - ☕ Coffee is my debugging companion.  
-- 🎯 I love solving LeetCode problems to keep my algorithms sharp.  
-- 🎨 I enjoy experimenting with **UI/UX** to create intuitive interfaces.  
-
+- 🎯 I love solving DSA problems to keep my algorithms sharp.  
 ---
 
 ## 🛠️ My Tech Stack  
